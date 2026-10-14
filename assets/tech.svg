@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="36" viewBox="0 0 764 36" font-family='"Microsoft YaHei","PingFang SC","Hiragino Sans GB","Noto Sans SC","Source Han Sans SC","Helvetica Neue",Arial,sans-serif'><g transform="translate(0.0,0)">
+      <rect width="85.6" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#2bd0d8"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">Python</text>
+    </g><g transform="translate(95.6,0)">
+      <rect width="96.8" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#f2a65a"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">PyTorch</text>
+    </g><g transform="translate(202.4,0)">
+      <rect width="90.8" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#7fb3f0"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">OpenCV</text>
+    </g><g transform="translate(303.2,0)">
+      <rect width="119.2" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#9ae06b"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">scikit-image</text>
+    </g><g transform="translate(432.4,0)">
+      <rect width="82.4" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#c79bf2"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">NumPy</text>
+    </g><g transform="translate(524.8,0)">
+      <rect width="79.6" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#f07fa8"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">SciPy</text>
+    </g><g transform="translate(614.4,0)">
+      <rect width="78.4" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#8fd0c9"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">Linux</text>
+    </g><g transform="translate(702.8,0)">
+      <rect width="61.2" height="36" rx="18" fill="#e9eff2"/>
+      <circle cx="17.5" cy="18" r="3.5" fill="#f2c14e"/>
+      <text x="28" y="23" font-size="13.5" font-weight="600" fill="#123039">Git</text>
+    </g></svg>
