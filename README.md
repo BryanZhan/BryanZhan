@@ -11,7 +11,7 @@
 
 <img src="assets/sem-grid.png" width="100%" alt="微球与晶体的 SEM 图像与实例分割结果" />
 
-<p align="center"><sub>显微图像为合成示意图 · 分割结果以 SAM / Cellpose 风格的实例掩膜表达</sub></p>
+<p align="center"><sub>显微图像为合成示意图 · 分割结果以彩色掩膜叠加显示</sub></p>
 
 <br/>
 
