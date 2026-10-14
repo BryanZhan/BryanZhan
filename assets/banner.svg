@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family='"Microsoft YaHei","PingFang SC","Hiragino Sans GB","Noto Sans SC","Source Han Sans SC","Helvetica Neue",Arial,sans-serif'>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081420"/>
+      <stop offset="0.5" stop-color="#0d2230"/>
+      <stop offset="1" stop-color="#0f2b36"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.75">
+      <stop offset="0" stop-color="#2bd0d8" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2bd0d8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="590" y1="0" x2="900" y2="0">
+      <stop offset="0" stop-color="black"/>
+      <stop offset="1" stop-color="white"/>
+    </linearGradient>
+    <mask id="texMask"><rect x="560" y="-20" width="740" height="380" fill="url(#fade)"/></mask>
+    <clipPath id="round"><rect width="1280" height="320" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#glow)"/>
+    <g transform="translate(520,-20)" mask="url(#texMask)"><path d="M0.0,0.0L593.5,0.0L621.2,37.4L313.7,138.0L0.0,169.5Z" fill="#1a4f5c" fill-opacity="0.59" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M593.5,0.0L696.1,0.0L694.3,25.7L639.5,52.7L621.2,37.4Z" fill="#154049" fill-opacity="0.52" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M696.1,0.0L760.0,0.0L760.0,58.2L722.8,49.1L694.3,25.7Z" fill="#154049" fill-opacity="0.62" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M313.7,138.0L621.2,37.4L639.5,52.7L622.7,113.6L618.7,119.0Z" fill="#3aa0a4" fill-opacity="0.60" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M622.7,113.6L639.5,52.7L694.3,25.7L722.8,49.1L701.6,112.7Z" fill="#1a4f5c" fill-opacity="0.54" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M760.0,58.2L760.0,140.2L724.1,144.2L701.6,112.7L722.8,49.1Z" fill="#256a72" fill-opacity="0.68" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M0.0,184.6L0.0,169.5L313.7,138.0L618.7,119.0L650.8,187.6L629.4,213.7L570.3,230.3Z" fill="#2b7480" fill-opacity="0.42" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M650.8,187.6L618.7,119.0L622.7,113.6L701.6,112.7L724.1,144.2L683.8,192.2Z" fill="#3aa0a4" fill-opacity="0.57" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M760.0,140.2L760.0,201.7L744.7,229.1L699.4,209.0L683.8,192.2L724.1,144.2Z" fill="#256a72" fill-opacity="0.53" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M621.7,309.7L570.3,230.3L629.4,213.7L649.6,283.5Z" fill="#3aa0a4" fill-opacity="0.59" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M649.6,283.5L629.4,213.7L650.8,187.6L683.8,192.2L699.4,209.0L678.0,283.8Z" fill="#3aa0a4" fill-opacity="0.38" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M705.7,299.4L678.0,283.8L699.4,209.0L744.7,229.1L757.0,251.1Z" fill="#1c4c58" fill-opacity="0.53" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M760.0,201.7L760.0,252.3L757.0,251.1L744.7,229.1Z" fill="#256a72" fill-opacity="0.38" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M598.9,360.0L0.0,360.0L0.0,184.6L570.3,230.3L621.7,309.7Z" fill="#2f8590" fill-opacity="0.66" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M720.2,360.0L598.9,360.0L621.7,309.7L649.6,283.5L678.0,283.8L705.7,299.4Z" fill="#1a4f5c" fill-opacity="0.68" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/><path d="M760.0,252.3L760.0,360.0L720.2,360.0L705.7,299.4L757.0,251.1Z" fill="#3aa0a4" fill-opacity="0.60" stroke="#7fe3e0" stroke-opacity="0.16" stroke-width="1.1"/></g>
+    <rect x="0" y="317" width="1280" height="3" fill="#2bd0d8" fill-opacity="0.55"/>
+  </g>
+
+  <text x="72" y="103" font-size="14.5" letter-spacing="3.4" fill="#5fd0d8" font-weight="600">MICROSTRUCTURE IMAGE ANALYSIS</text>
+  <rect x="72" y="117" width="58" height="3" rx="1.5" fill="#2bd0d8"/>
+  <text x="70" y="196" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="0.5">Bryan Zhan</text>
+  <text x="72" y="243" font-size="22" fill="#a8d8e4">把显微图像，量成能复现的数字</text>
+  <text x="72" y="277" font-size="14.5" fill="#6f9aab" letter-spacing="0.6">分割 · 定量统计 · 批处理流水线 · 复核可视化</text>
+</svg>
