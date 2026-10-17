@@ -17,7 +17,7 @@ defend: segmentation, particle and crystal quantification, and pipelines someone
 - **[Ink-wash style transfer](https://github.com/BryanZhan/Generative-Adversarial-Network-for-Landscape-Ink-Wash-Painting-Style)** —
   unpaired photo-to-ink-wash translation, CycleGAN plus four consistency constraints.
 
-<img src="assets/sem-grid.png" width="620" alt="SEM instance segmentation examples" />
+<img src="assets/showcase.png" width="680" alt="Synthetic micrographs and instance masks" />
 
 `Python` · `NumPy` · `OpenCV` · `scikit-image` · `PyTorch`
 
